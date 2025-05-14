@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Shubh4151
 - 👀 I’m interested in web Development
-- 🌱 I’m currently working for Codify Software Solutions
 - 💞️ I’m looking to collaborate with new and exciting job 
 - 📫 You can reach me from anywhere
 - 😄 Pronouns: Engineer
